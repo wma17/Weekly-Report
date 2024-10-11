@@ -4,11 +4,12 @@ I started my PhD journey from September 2024 at RPI under the advise of [Prof. Q
 I will do weekly report to Prof. Ji, and I will upload my material (mainly presentation slides) here.
 
 ### 2024 Fall
-1. Week 1: https://wma17.github.io//Weekly-Report/Weekly%20Report%2C%2020240906.pdf
-2. Week 2: https://wma17.github.io//Weekly-Report/Weekly%20Report%2C%2020240913.pdf
-3. Week 3: https://wma17.github.io//Weekly-Report/Weekly%20Report%2C%2020240920(not%20complete).pdf
-4. Week 4: https://wma17.github.io//Weekly-Report/Weekly%20Report%2C%2020240927%20(not%20complete).pdf
-5. 
+1. Week 1: [A Small Step into Bayeisan Deep Learning and Uncertainty](https://wma17.github.io//Weekly-Report/Weekly%20Report%2C%2020240906.pdf)
+2. Week 2: [Read Hanjing's Work about UQ, UA](https://wma17.github.io//Weekly-Report/Weekly%20Report%2C%2020240913.pdf)
+3. Week 3: [Hands-on | Deep Ensemble, MC Drop-out](https://wma17.github.io//Weekly-Report/Weekly%20Report%2C%2020240920(not%20complete).pdf)
+4. Week 4: [Hands-on | UA via Vanilla Gradient and FullGrad](https://wma17.github.io//Weekly-Report/Weekly%20Report%2C%2020240927%20(not%20complete).pdf)
+5. Week 5: [UA hands-on & Readings on Uncertianty❌Generative Models](https://wma17.github.io//Weekly-Report/Weekly%20Report%2C%2020241004.md)
+6. Week 6: [Results about Uncertainy-guided Denoising & DAG-GFlowNet: understand paper and run the code & More Readings on Uncertainty]
 
 ## Paper Reading
 I will record most of my reading progress (the material, the paper) here.
