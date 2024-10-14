@@ -12,7 +12,7 @@ I present weekly report and discuss questions with Prof. Ji, and I will upload m
 6. Week 6: [Results about Uncertainy-guided Denoising & DAG-GFlowNet: understand paper and run the code & More Readings on Uncertainty]
 
 ## Paper Reading
-I will record most of my reading progress (the material, the paper) here.
+I will record some of my reading progress (the material, the paper) here.
 
 * [Basics in BNN] A Primer on Bayesian Neural Networks: Review and Debates [[arxiv 2023]](https://arxiv.org/abs/2309.16314)
 * [Basics in BNN] An Introduction to Bayesian Neural Networks @[ProbAI 2022 summer school] [[slides]](http://yingzhenli.net/home/pdf/ProbAI2022_vi_bnn_tutorial.pdf) [[notes]](http://yingzhenli.net/home/pdf/ProbAI2022_lecture_note.pdf)
