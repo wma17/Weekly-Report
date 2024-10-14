@@ -1,7 +1,7 @@
 # My Learning Progress as a PhD Student @RPI
 I started my PhD journey from September 2024 at RPI under the advise of [Prof. Qiang Ji](https://scholar.google.com/citations?user=vAXmpVIAAAAJ&hl=en). During the first few months, my mainly topics will be **Uncertainty** in Deep Learning, say, the Probabilistic Machine Learning or Bayesian Machine Learning.
 ## Weekly Report
-I will do weekly report to Prof. Ji, and I will upload my material (mainly presentation slides) here.
+I present weekly report and discuss questions with Prof. Ji, and I will upload my material (mainly presentation slides) here.
 
 ### 2024 Fall
 1. Week 1: [A Small Step into Bayeisan Deep Learning and Uncertainty](https://wma17.github.io//Weekly-Report/Weekly%20Report%2C%2020240906.pdf)
