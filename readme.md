@@ -25,4 +25,5 @@ I present weekly report and discuss questions with Prof. Ji, and I will upload m
 17. 2025/02/25: [Readings on Analysis of UQ methods; Reproducing Credal Ensemble](https://wma17.github.io/Weekly-Report/Weekly%20Report%2C%2020250225.pdf)
 18. 2025/03/04: [Experiments on Credal Ensemble and Credal Wrapper; Experiments about UQ on Corrupted Images ](https://wma17.github.io/Weekly-Report/Weekly%20Report%2C%2020250304.pdf)
 19. 2025/03/11: [Readings about Uncertainty Disentanglement; Experimental Results about Ensemble Size analysis; Analysis of Choosing the p in a Credal Net](https://wma17.github.io/Weekly-Report/Weekly%20Report%2C%2020250311.pdf)
+20. 2025/03/18: [Analysis of Choosing the p in a Credal Net; Ensemble of Saliency Maps and Feature Maps to do OOD detection ; Some experiments on exploring AU/EU relationship](https://wma17.github.io/Weekly-Report/Weekly%20Report%2C%2020250318.pdf)
 
