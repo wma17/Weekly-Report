@@ -28,4 +28,6 @@ I present weekly report and discuss questions with Prof. Ji, and I will upload m
 20. 2025/03/18: [Analysis of Choosing the p in a Credal Net; Ensemble of Saliency Maps and Feature Maps to do OOD detection ; Some experiments on exploring AU/EU relationship](https://wma17.github.io/Weekly-Report/Weekly%20Report%2C%2020250318.pdf)
 21. 2025/03/25: [Continuing Expermients about AU/EU wrt corruptions ; A simple experiments on disentangle features and uncertainty (failed) ; Paper about "uncertainty of thoughts"](https://wma17.github.io/Weekly-Report/Weekly%20Report%2C%2020250325.pdf)
 22. 2025/04/01: [A Tree which summarizes Uncertainty Quantification Methods from my perspective](https://wma17.github.io/Weekly-Report/Uncertainty_Quantification_Methods_Tree.html).
+23. 2025/04/01: [Reading about Uncertainty Disentanglement](https://wma17.github.io/Weekly-Report/Weekly%20Report%2C%2020250401.pdf)
+24. 2025/04/08: [An Experimental Design for Uncertianty Disentanglement and Some Results](https://wma17.github.io/Weekly-Report/Weekly%20Report%2C%2020250408.pdf)
 
